@@ -13,7 +13,7 @@ function Hero() {
             <div className="Desc">
                 <h3 className='gradientText helloText font-semibold text-lg my-1'>Hello There !</h3>
                 <h2 className='Name text-3xl '>I'm Mohd Umair Lari</h2>
-                <h1 className='gradientText frontendDev text-5xl font-medium'>Game Developer</h1>
+                <h1 className='gradientText frontendDev text-5xl font-medium'>Software Developer</h1>
                 <h4 className='para text-sm'>Innovative casino game and software developer, blending creativity with code. Crafting exciting gaming experiences and robust applications for a digital world.</h4>
             </div>
             <div className="Image">
